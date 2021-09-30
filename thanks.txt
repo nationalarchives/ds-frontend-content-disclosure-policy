@@ -6,3 +6,4 @@ We would like to thank the following researchers:
 [2021-04-12] Shantanu Kulkarni (0xShantanuKul) -- exposed log file
 [2021-04-19] Pankaj Kumar Thakur (@nep_1337_1998) and Laxmi Kumari Thakur (@laxmi__thakur_) -- auth bypass, SSRF, open directory
 [2021-05-10] Mohit Verma -- XSS vulnerability
+[2021-09-30] Mohammed Arif H (@m0hamm3darifh) - stack trace and IIS versioning vulnerabilities
