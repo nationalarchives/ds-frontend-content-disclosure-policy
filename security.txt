@@ -1,0 +1,6 @@
+Contact: security-alert@nationalarchives.gov.uk
+Acknowledgments: https://nationalarchives.gov.uk/.well-known/thanks.txt
+Preferred-Languages: en
+Canonical: https://nationalarchives.gov.uk/.well-known/security.txt
+Policy: https://nationalarchives.gov.uk/.well-known/disclosure-policy.txt
+Expires: Fri, 28 Jan 2022 23:59:59 +0000

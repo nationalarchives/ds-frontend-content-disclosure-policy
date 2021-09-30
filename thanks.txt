@@ -1,0 +1,8 @@
+We would like to thank the following researchers:
+
+[2020-12-10] Vladimir Vlasov (adsec2s) -- missing validation, server configuration
+[2021-02-15] Samuel Pritchard -- XSS vulnerability
+[2021-03-17] Md. Nur A Alam Dipu (Dipu1A) -- XSS vulnerability
+[2021-04-12] Shantanu Kulkarni (0xShantanuKul) -- exposed log file
+[2021-04-19] Pankaj Kumar Thakur (@nep_1337_1998) and Laxmi Kumari Thakur (@laxmi__thakur_) -- auth bypass, SSRF, open directory
+[2021-05-10] Mohit Verma -- XSS vulnerability
