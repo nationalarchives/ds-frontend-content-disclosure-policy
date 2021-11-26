@@ -8,5 +8,5 @@ We would like to thank the following researchers:
 [2021-05-10] Mohit Verma -- XSS vulnerability
 [2021-09-30] Mohammed Arif H (@m0hamm3darifh) - stack trace and IIS versioning vulnerabilities
 [2021-11-12] Meenakshi Megavarnam - - exposed log file
-[2021-11-13] Gaurang Maheta  - - XSS vulnerability
+[2021-11-13] Gaurang Maheta - - XSS vulnerability
 
