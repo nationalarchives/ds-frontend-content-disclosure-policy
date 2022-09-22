@@ -10,3 +10,4 @@ We would like to thank the following researchers:
 [2021-11-12] Meenakshi Megavarnam - - exposed log file
 [2021-11-13] Gaurang Maheta - - XSS vulnerability
 [2021-07-12] Siddharth Dushantha -- XSS vulnerability
+[2022-09-22] Md. Nur A Alam Dipu (Dipu1A) -- XSS vulnerability
